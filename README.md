@@ -24,19 +24,12 @@
 ## Tentang Saya 
 
 - Lagi sibuk bikin **web apps** yang (semoga) tidak ada bug.  
-  <img src="https://media.giphy.com/media/26gR2qFK3K3uPZ7uU/giphy.gif" width="50" />
 - Belajar **membuat kopi yang enak sambil debug** ☕.  
-  <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="50" />
 - Mau kolaborasi? Asal proyeknya nggak bikin rambut rontok.  
-  <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rc/giphy.gif" width="50" />
 - 🤔 Butuh saran: gimana caranya biar `git push` selalu sukses di hari Jumat?  
-  <img src="https://media.giphy.com/media/3o6Zt6ML6Bklcajxna/giphy.gif" width="50" />
 - Tanya saya tentang **JavaScript, Laravel, atau cara kerja `console.log()`**.  
-  <img src="https://media.giphy.com/media/26gRzVjvLOp09qBq0/giphy.gif" width="50" />
 - Hubungi: **victusfirst10@gmail.com** (jangan spam, nanti saya `rm -rf`).  
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="50" />
 - Fun fact: Kode saya kadang jalan karena **keajaiban** bukan karena logika.  
-  <img src="https://media.giphy.com/media/3o6Ztq9v7b7p9v7Xg/giphy.gif" width="50" />
 
 ---
 
@@ -47,7 +40,7 @@
 </p>
 
 > *Wix masukin juga biar seru — namanya juga serbabisa.*  
-> <img src="https://media.giphy.com/media/xUA7aTqXvKjZz2tYQ/giphy.gif" width="80" />
+
 
 ---
 
@@ -69,36 +62,22 @@
 > *"Simplicity is not the absence of complexity, but the mastery of it."*  
 > — Tapi kalau bisa pilih, saya suka yang **simple** biar besok pagi masih paham kode sendiri.
 
-<img src="https://media.giphy.com/media/26gR2qFK3K3uPZ7uU/giphy.gif" width="150" />
-
 ---
 
 ## 😄 Sehari-hari saya
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=dark&hideBorder=true&qColor=FF2A2A&aColor=FF2A2A" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="100" />
-  <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rc/giphy.gif" width="100" />
-  <img src="https://media.giphy.com/media/3o6Zt6ML6Bklcajxna/giphy.gif" width="100" />
+  <img src="https://readme-jokes.vercel.app/api?theme=white&hideBorder=true&qColor=FF2A2A&aColor=FF2A2A" />
 </p>
 
 ---
 
-## 🤣 Joke Jees 
+## 🤣
 
 > *"What accommodations did the JavaScript developer request at the hotel?"*  
 > **"A room with a Vue."**  
+  Ba dum tss 🥁
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="200" />
-  <br />
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" />
-  <br />
-  <strong>Ba dum tss 🥁 + tepuk tangan kode 👏</strong>
-</p>
 
 ---
 
@@ -112,7 +91,6 @@
 </p>
 
 > *npm i* — eh, tapi hati-hati install, nanti kena `node_modules` berat 😂  
-> <img src="https://media.giphy.com/media/3o6Ztq9v7b7p9v7Xg/giphy.gif" width="100" />
 
 ---
 
