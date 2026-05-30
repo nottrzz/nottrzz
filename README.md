@@ -23,19 +23,19 @@
 
 ## Tentang Saya 
 
-- 🔭 Lagi sibuk bikin **web apps** yang (semoga) tidak ada bug.  
+- Lagi sibuk bikin **web apps** yang (semoga) tidak ada bug.  
   <img src="https://media.giphy.com/media/26gR2qFK3K3uPZ7uU/giphy.gif" width="50" />
-- 🌱 Belajar **membuat kopi yang enak sambil debug** ☕.  
+- Belajar **membuat kopi yang enak sambil debug** ☕.  
   <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="50" />
-- 👯 Mau kolaborasi? Asal proyeknya nggak bikin rambut rontok.  
+- Mau kolaborasi? Asal proyeknya nggak bikin rambut rontok.  
   <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rc/giphy.gif" width="50" />
 - 🤔 Butuh saran: gimana caranya biar `git push` selalu sukses di hari Jumat?  
   <img src="https://media.giphy.com/media/3o6Zt6ML6Bklcajxna/giphy.gif" width="50" />
-- 💬 Tanya saya tentang **JavaScript, Laravel, atau cara kerja `console.log()`**.  
+- Tanya saya tentang **JavaScript, Laravel, atau cara kerja `console.log()`**.  
   <img src="https://media.giphy.com/media/26gRzVjvLOp09qBq0/giphy.gif" width="50" />
-- 📫 Hubungi: **victusfirst10@gmail.com** (jangan spam, nanti saya `rm -rf`).  
+- Hubungi: **victusfirst10@gmail.com** (jangan spam, nanti saya `rm -rf`).  
   <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="50" />
-- ⚡ Fun fact: Kode saya kadang jalan karena **keajaiban** bukan karena logika.  
+- Fun fact: Kode saya kadang jalan karena **keajaiban** bukan karena logika.  
   <img src="https://media.giphy.com/media/3o6Ztq9v7b7p9v7Xg/giphy.gif" width="50" />
 
 ---
