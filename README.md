@@ -6,7 +6,7 @@
 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3500&pause=500&color=2D9EF7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Rzmhr;👋;Full+Stack+Developer;Laravel+%2B+Vue+Enjoyer;Wix+juga+bisa+🥲;Kadang+ngoding+sambil+nyanyi+🎤" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Rzmhr;👋;Full+Stack+Developer;Laravel+%2B+Vue+Enjoyer;Wix+juga+bisa+🥲;Ngoding+sambil+nyanyi+🎤" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 ---
 
-## 🧑‍💻 Tentang Saya (versi lucu)
+## 🧑‍💻 Tentang Saya 
 
 - 🔭 Saat ini sibuk bikin **web apps** yang (semoga) tidak ada bug.
 - 🌱 Lagi belajar **membuat kopi yang enak sambil debug** ☕.
@@ -38,11 +38,11 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,vue,vite,laravel,php,nodejs,python,html,css,tailwind,bootstrap,wordpress,wix,git,github,npm&perline=8" />
 </p>
 
-> *Catatan: Wix masukin juga biar lengkap. Hehe.*
+> *Wix masukin juga biar lengkap. Hehe.*
 
 ---
 
-## 📊 Statistik GitHub yang bikin makin semangat (atau insecure)
+## Statistik GitHub yang bikin makin semangat (atau insecure)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nottrzz&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF79C6&icon_color=FFB86C&text_color=F8F8F2" width="48%" />
@@ -55,7 +55,7 @@
 
 ---
 
-## 🎨 Filosofi Ngoding Saya
+## Filosofi Ngoding Saya
 
 > *"Simplicity is not the absence of complexity, but the mastery of it."*  
 > — Tapi kalau bisa pilih, saya suka yang **simple** biar besok pagi masih paham kode sendiri.
@@ -70,7 +70,7 @@
 
 ---
 
-## 📫 Hubungi saya (jangan sungkan)
+## Hubungi saya (jangan sungkan)
 
 <p align="center">
   <a href="https://github.com/nottrzz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A1A"/></a>
@@ -79,11 +79,8 @@
   <a href="https://twitter.com/rzmhr"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1A1A1A"/></a>
 </p>
 
-> *Ganti link LinkedIn dan Twitter dengan akun asli kamu ya. Kalau belum punya, hapus saja badge-nya.*
 
----
-
-## 🎵 Soundtrack sambil baca README ini
+## Soundtrack sambil baca README ini
 
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31lq7n5v5tqe5qyfknqkq&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" />
