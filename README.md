@@ -1,7 +1,8 @@
 <!--
 ╔═════════════════════════════════════════════════════════════════════════╗
-║   🔴💀 SELAMAT DATANG DI PROFIL YANG (AGAK) GILA TAPI IMUT 💀🔴          ║
-║   Jangan lupa follow biar dapat notifikasi kode absurd saya selanjutnya  ║
+║        SELAMAT DATANG DI PROFIL YANG (AGAK) GILA TAPI  GPP              ║
+║   Jangan lupa follow biar dapat notifikasi kode absurd saya selanjutnya ║
+║   ⚠️  BACA DENGAN RISIKO TERKIKIH-KIKIH ⚠️                              ║
 ╚═════════════════════════════════════════════════════════════════════════╝
 -->
 
@@ -20,29 +21,37 @@
 
 ---
 
-## 🧸 Tentang Saya (versi gemes)
+## Tentang Saya 
 
-- 🔭 Lagi sibuk bikin **web apps** yang (semoga) tidak ada bug.
-- 🌱 Belajar **membuat kopi yang enak sambil debug** ☕.
-- 👯 Mau kolaborasi? Asal proyeknya nggak bikin rambut rontok.
-- 🤔 Butuh saran: gimana caranya biar `git push` selalu sukses di hari Jumat?
-- 💬 Tanya saya tentang **JavaScript, Laravel, atau cara kerja `console.log()`**.
-- 📫 Hubungi: **victusfirst10@gmail.com** (jangan spam, nanti saya `rm -rf`).
-- ⚡ Fun fact: Kode saya kadang jalan karena **keajaiban** bukan karena logika.
+- 🔭 Lagi sibuk bikin **web apps** yang (semoga) tidak ada bug.  
+  <img src="https://media.giphy.com/media/26gR2qFK3K3uPZ7uU/giphy.gif" width="50" />
+- 🌱 Belajar **membuat kopi yang enak sambil debug** ☕.  
+  <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="50" />
+- 👯 Mau kolaborasi? Asal proyeknya nggak bikin rambut rontok.  
+  <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rc/giphy.gif" width="50" />
+- 🤔 Butuh saran: gimana caranya biar `git push` selalu sukses di hari Jumat?  
+  <img src="https://media.giphy.com/media/3o6Zt6ML6Bklcajxna/giphy.gif" width="50" />
+- 💬 Tanya saya tentang **JavaScript, Laravel, atau cara kerja `console.log()`**.  
+  <img src="https://media.giphy.com/media/26gRzVjvLOp09qBq0/giphy.gif" width="50" />
+- 📫 Hubungi: **victusfirst10@gmail.com** (jangan spam, nanti saya `rm -rf`).  
+  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="50" />
+- ⚡ Fun fact: Kode saya kadang jalan karena **keajaiban** bukan karena logika.  
+  <img src="https://media.giphy.com/media/3o6Ztq9v7b7p9v7Xg/giphy.gif" width="50" />
 
 ---
 
-## 🛠️ Tech Stack (yang bikin saya begadang)
+## 🛠️ Tech Stack (yang bikin saya ga tdurrr)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,vue,vite,laravel,php,nodejs,python,html,css,tailwind,bootstrap,wordpress,wix,git,github,npm&perline=8&theme=dark" />
 </p>
 
-> 🟥 *Wix masukin juga biar seru — namanya juga serbabisa.*
+> *Wix masukin juga biar seru — namanya juga serbabisa.*  
+> <img src="https://media.giphy.com/media/xUA7aTqXvKjZz2tYQ/giphy.gif" width="80" />
 
 ---
 
-## 📊 Statistik GitHub (yang bikin insecure tapi lucu)
+## Statistik GitHub (yang bikin insecure tapi lucu)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nottrzz&show_icons=true&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=FF2A2A&icon_color=FF2A2A&text_color=FFFFFF" width="48%" />
@@ -55,10 +64,12 @@
 
 ---
 
-## 🎨 Filosofi Ngoding Saya
+## Filosofi Ngoding Saya
 
 > *"Simplicity is not the absence of complexity, but the mastery of it."*  
 > — Tapi kalau bisa pilih, saya suka yang **simple** biar besok pagi masih paham kode sendiri.
+
+<img src="https://media.giphy.com/media/26gR2qFK3K3uPZ7uU/giphy.gif" width="150" />
 
 ---
 
@@ -68,17 +79,30 @@
   <img src="https://readme-jokes.vercel.app/api?theme=dark&hideBorder=true&qColor=FF2A2A&aColor=FF2A2A" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rc/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/3o6Zt6ML6Bklcajxna/giphy.gif" width="100" />
+</p>
+
 ---
 
-## 🤣 Joke JavaScript wajib baca
+## 🤣 Joke Jees 
 
 > *"What accommodations did the JavaScript developer request at the hotel?"*  
 > **"A room with a Vue."**  
-> — Ba dum tss 🥁
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="200" />
+  <br />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" />
+  <br />
+  <strong>Ba dum tss 🥁 + tepuk tangan kode 👏</strong>
+</p>
 
 ---
 
-## 📫 Hubungi saya (jangan sungkan, nanti saya balas pake 🐧)
+## Hubungi saya (jangan sungkan, nanti saya balas pake 🐧)
 
 <p align="center">
   <a href="https://github.com/nottrzz"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=FF2A2A&labelColor=black"/></a>
@@ -87,7 +111,8 @@
   <a href="https://twitter.com/rzmhr"><img src="https://img.shields.io/badge/Twitter-0A0A0A?style=for-the-badge&logo=twitter&logoColor=FF2A2A&labelColor=black"/></a>
 </p>
 
-> *Ganti link LinkedIn dan Twitter dengan akun asli kamu ya. Kalau belum punya, hapus saja badge-nya.*
+> *npm i* — eh, tapi hati-hati install, nanti kena `node_modules` berat 😂  
+> <img src="https://media.giphy.com/media/3o6Ztq9v7b7p9v7Xg/giphy.gif" width="100" />
 
 ---
 
@@ -96,17 +121,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="200" />
   <br />
-  <strong>✨ Keep coding, keep laughing, and keep it neon! ✨</strong><br />
-  <sub>with ☕, 🐈, and ❤️‍🔥</sub>
+  <strong>Keep coding, keep laughing, and keep it neon!</strong><br />
+  <sub>with ☕, 🐈</sub>
 </p>
-
-<!-- 
-Catatan:
-- Typing SVG pakai herokuapp (paling stabil). Warna merah neon #FF2A2A.
-- Semua badge dan statistik pakai tema dark dengan aksen merah.
-- Joke "A room with a Vue" sudah ditambahkan di bagian sendiri.
-- Email sudah benar: victusfirst10@gmail.com.
-- Tech stack sudah termasuk Wix.
-- Tidak ada bagian "Proyek Unggulan" sesuai permintaan.
-- GIF bisa diganti dengan URL favoritmu dari GIPHY.
--->
