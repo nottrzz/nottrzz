@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Rzmhr
 
-<!--
-**nottrzz/nottrzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer — JavaScript • Laravel • Vue • React
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+I build web applications with a focus on clarity, performance, and user experience.  
+Clean code, simple architecture, and scalable systems.
+
+Currently working across frontend and backend ecosystems, shaping ideas into functional digital products.
+
+---
+
+## Tech Stack
+
+JavaScript · TypeScript · React · Vue · Vite  
+Laravel · PHP · Node.js · Python  
+HTML · CSS · Tailwind CSS · Bootstrap  
+WordPress · Wix · GeneratePress  
+npm · REST APIs
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAMEKAMU&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAMEKAMU&layout=compact&theme=default)
+
+---
+
+## Philosophy
+
+Simplicity is not the absence of complexity, but the mastery of it.
+
+---
+
+## Contact
+
+GitHub: https://github.com/nottrzz
